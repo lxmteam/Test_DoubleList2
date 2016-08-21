@@ -5,6 +5,5 @@ package com.lxm.test.test_doublelist.pyk;
  * QQ:543478509
  */
 public class pyktest {
-
-
+    public ppp a;
 }
